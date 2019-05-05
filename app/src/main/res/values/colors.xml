@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F44336</color>
+    <color name="colorPrimaryDark">#BA000D</color>
+    <color name="colorAccent">#FF7961</color>
+    
+    <color name="azul">#03a9f4</color>
+    <color name="azulEscuro">#007ac1</color>
+    <color name="azulClaro">#67daff</color>
+
+    <color name="rosa">#FFFFFF</color>
+    <color name="rosaEscuro">#ba000d</color>
+    <color name="rosaClaro">#ff7961</color>
+
+    <color name="amarelo">#ff9800</color>
+    <color name="amareloEscuro">#c66900</color>
+    <color name="amareloClaro">#ffc947</color>
+
+    <color name="branco">#FFFFFF</color>
+    <color name="preto">#000000</color>
+
+
+</resources>
